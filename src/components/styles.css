@@ -1,0 +1,13 @@
+.main {
+    margin: 16px;
+}
+
+.link-collection {
+    display: block;
+}
+
+.p-link {
+    color: #FFF;
+    display: block;
+    margin: 8px 0;
+}
