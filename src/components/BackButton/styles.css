@@ -1,16 +1,16 @@
 .p-link_button {
-    color: #000;
-    background: #ccc;
-    font-size: 12px;
-    line-height: 12px;
-    padding: 12px;
-    position: absolute;
-    right: 10px;
-    text-decoration: none;
-    top: 12px;
+	color: #000;
+	background: #ccc;
+	font-size: 12px;
+	line-height: 12px;
+	padding: 12px;
+	position: absolute;
+	right: 10px;
+	text-decoration: none;
+	top: 12px;
 }
 
 .p-link_button:hover {
-    color: #FFF;
-    background: #707070;
+	color: #FFF;
+	background: #707070;
 }
