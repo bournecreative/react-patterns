@@ -8,6 +8,7 @@ export const Main = () => {
 			<div className="link-collection">
 				<Link className="p-link" to="prevent-click-spam">Prevent Click Spamming</Link>
 				<Link className="p-link" to="props-for-state">Passing Props for State</Link>
+				<Link className="p-link" to="animate-react-transition">Fading with React Transition Groups</Link>
 			</div>
 		</div>
 	)

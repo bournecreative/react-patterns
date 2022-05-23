@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react'
 import { BackButton } from '../BackButton'
-import "./styles.css"
+import "../styles.css"
 
 export const PreventClickSpam = () => {
 
