@@ -9,6 +9,7 @@ export const Main = () => {
 				<Link className="p-link" to="prevent-click-spam">Prevent Click Spamming</Link>
 				<Link className="p-link" to="props-for-state">Passing Props for State</Link>
 				<Link className="p-link" to="animate-react-transition">Fading with React Transition Groups</Link>
+				<Link className="p-link" to="state-dependent-state">When to use useReducer</Link>
 			</div>
 		</div>
 	)
